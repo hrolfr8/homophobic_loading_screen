@@ -1,4 +1,14 @@
-# Quilt Loading Screen
+# Homophobic Loading Screen
+
+Shitty ad hoc repo that is just the quilt loading screen mod but I deleted the code that enables the pride flag patches because I'm bored.
+
+Yeah sure, I could've just changed the config option to an enum that includes not having the pride patches at all, along with the preexisting options, but you can just use the original mod if you want the pride patches anyways lmao.
+
+IIRC some versions of the mod don't have the patches but i believe they're made for older releases of minecraft so if you are on an older release just use those versions.
+
+Obviously all credit for the mod goes to the original authors. I did not create any code here, rather I just uncreated some code that is now not here.
+
+## Original readme
 
 ![Licensed under MIT](https://img.shields.io/badge/license-MIT-informational) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/emmods/quilt-loading-screen/build)
 

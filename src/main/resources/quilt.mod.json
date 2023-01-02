@@ -8,12 +8,13 @@
 		],
 		"version": "5.0.0",
 		"metadata": {
-			"name": "Quilt Loading Screen",
-			"description": "Makes the Minecraft loading screen have QuiltMC patches",
+			"name": "Homophobic Loading Screen",
+			"description": "Quilt Loading Screen but pride patches are always off",
 			"contributors": {
 				"triphora": "Owner",
 				"darkerbit": "Original Author",
-				"Oliver-makes-code": "Quilt UI Author"
+				"Oliver-makes-code": "Quilt UI Author",
+				"hrolfr": "The Homophobe"
 			},
 			"contact": {
 				"email": "emmaffle@modrinth.com",
