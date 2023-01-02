@@ -31,13 +31,11 @@ public class QuiltLoadingScreen {
 	private float patchTimer = 0f;
 
 	public QuiltLoadingScreen(MinecraftClient client) {
-		boolean prideMonth = Config.prideQuiltsEnabled || LocalDate.now().getMonth() == Month.JUNE;
-
 		this.client = client;
-		this.patchesInTextures = prideMonth ? 19 : 12;
-		this.patchSize = prideMonth ? 20 : 24;
-		this.patchCount = prideMonth ? 32 : 16;
-		this.texture = prideMonth ? id("textures/gui/pride_patches.png") : id("textures/gui/patches.png");
+		this.patchesInTextures = 12;
+		this.patchSize = 24;
+		this.patchCount = 16;
+		this.texture = id("textures/gui/patches.png");
 
 		createPatch(patchesInTextures); // summons the holy pineapple
 	}
